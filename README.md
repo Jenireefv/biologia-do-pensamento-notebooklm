@@ -1,5 +1,4 @@
 # 🧠 A Biologia do Pensamento e o Poder da Cura
-![Capa do Projeto](capa.png)
 
 ## 📌 Contexto e Objetivos
 
