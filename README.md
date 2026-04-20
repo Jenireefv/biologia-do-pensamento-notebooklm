@@ -1,3 +1,4 @@
+![Capa do Projeto](ChatGPT Image 20 de abr. de 2026, 15_49_50.png)
 # 🧠 A Biologia do Pensamento e o Poder da Cura
 
 ## 📌 Contexto e Objetivos
