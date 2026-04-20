@@ -1,5 +1,5 @@
 # 🧠 A Biologia do Pensamento e o Poder da Cura
-
+![Capa do Projeto](capa.png)
 ## 📌 Contexto e Objetivos
 
 Este projeto foi desenvolvido como parte de um desafio prático da DIO com o objetivo de explorar o uso da Inteligência Artificial como ferramenta de aprendizagem ativa.
